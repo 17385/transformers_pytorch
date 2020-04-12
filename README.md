@@ -15,6 +15,7 @@ pip install transformers
 !pip install transformers
 ```
 > 前提：Python 3.5+，PyTorch 1.0.0+ ，TensorFlow 2.0.0-rc1
+
 > 建议使用谷歌Colab，可以用谷歌的GPU
 
 ## 测试是否使用GPU
