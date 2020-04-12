@@ -3,7 +3,7 @@
 
 每项任务一般提供了两种机制：
 * pipline
-* 直接将模型与Tokenizer(PyTorch/TensorFlow)结合使用
+* 直接将模型与Tokenizer(PyTorch)结合使用
 
 ## 安装transformers
 * 直接安装
@@ -14,7 +14,7 @@ pip install transformers
 ```
 !pip install transformers
 ```
-> 前提：Python 3.5+，PyTorch 1.0.0+ ，TensorFlow 2.0.0-rc1
+> 前提：Python 3.5+，PyTorch 1.0.0+
 
 > 建议使用谷歌Colab，可以用谷歌的GPU
 
