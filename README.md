@@ -6,8 +6,6 @@
 * 直接将模型与Tokenizer(PyTorch/TensorFlow)结合使用
 
 ## 安装transformers
-前提：Python 3.5+，PyTorch 1.0.0+ ，TensorFlow 2.0.0-rc1
-
 * 直接安装
 ```
 pip install transformers
@@ -16,7 +14,8 @@ pip install transformers
 ```
 !pip install transformers
 ```
-> 建议使用谷歌Colab,可以用谷歌的GPU
+> 前提：Python 3.5+，PyTorch 1.0.0+ ，TensorFlow 2.0.0-rc1
+> 建议使用谷歌Colab，可以用谷歌的GPU
 
 ## 测试是否使用GPU
 ```
